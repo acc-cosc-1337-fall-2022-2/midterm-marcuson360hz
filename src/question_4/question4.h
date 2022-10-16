@@ -1,4 +1,4 @@
-//
+#include <vector>
 bool test_config();
 
 bool is_prime(int prime_param);
