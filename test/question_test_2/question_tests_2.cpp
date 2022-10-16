@@ -10,3 +10,9 @@ TEST_CASE("test")
 {
 	REQUIRE(test_config() == true);
 }
+
+TEST_CASE("Test roll dice is always between 1-6"){
+
+	//TEST IS IN MAIN
+
+}
